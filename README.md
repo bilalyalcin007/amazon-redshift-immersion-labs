@@ -37,7 +37,7 @@ This architecture includes:
 # 🟦 1. Environment Setup — CloudFormation
 
 ### **1.1 — CloudFormation Stack (Lab Start Page)**  
-![title](screenshots/1-title.png)
+![title](screenshots:/1-title.png)
 
 ### **1.2 — Creating the CloudFormation Stack**
 ![stack-creation](screenshots/2-create-stack.png)
