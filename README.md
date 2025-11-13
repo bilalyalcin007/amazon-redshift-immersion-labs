@@ -72,7 +72,7 @@ This architecture includes:
 ![mismatch-error](screenshots/9-try-to-load-table-with-mismatched-column.png)
 
 ### **3.6 — Troubleshooting Data Load Issues**
-![troubleshoot](screenshots/10-To-troubleshoot-any-data-load-issues.png)
+![troubleshoot](screenshots/10-To.png)
 
 ---
 
@@ -97,7 +97,7 @@ This architecture includes:
 ![event2](screenshots/16-S3-event-integration.png)
 
 ### **4.7 — Creating a Redshift COPY Job**
-![copy-job](screenshots/17-Create-COPY-JOB.png)
+![copy-job](screenshots/17-COPY-JOB.png)
 
 ---
 
