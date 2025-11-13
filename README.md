@@ -1,5 +1,5 @@
-# 📘 Amazon Redshift Immersion Labs (Without ML Section)
-### *Hands-on Data Engineering Project — Completed by Bilal Yalcin*
+# 📘 Amazon Redshift Immersion Labs 
+### *Hands-on Data Engineering Project*
 
 This project is based on the **AWS Redshift Immersion Labs** workshop.  
 It covers Redshift Serverless, ELT processes, COPY jobs, S3 event integrations, data sharing, and performance monitoring.
@@ -17,8 +17,6 @@ The goal of this project was to gain real-world hands-on experience with **Amazo
 - Creating and querying Materialized Views  
 - Sharing data across Redshift consumers  
 - Monitoring query performance and tuning  
-
-> ⚠️ Machine Learning section was intentionally skipped.
 
 ---
 
